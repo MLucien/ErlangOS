@@ -1,1 +1,6 @@
-# ErlangOS 
+ErlangOS 
+
+An operating System build on Erlang
+
+
+Note: I will build the project on the ground up using unix.
